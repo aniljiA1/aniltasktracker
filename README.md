@@ -30,5 +30,5 @@ A simple full-stack Task Tracker app where users can register/login and manage t
 
 ---
 
-## 📁 Folder Structure
+
 
